@@ -11,7 +11,7 @@ export const DATA = {
         'Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Discord.',
     summary:
         'AI am a cybersecurity and computer science engineering student at the University of Science and Technology Houari Boumediene, with strong experience in fullstack development. As a Google Developer Group Algiers member, I led and contributed to projects like a Google Forum clone and secure Django REST APIs with JWT authentication. Adam has developed scalable and secure backend systems for Projects such as EduSphere, focusing on RESTful API design and student community tools. Proficient in C, Python, JavaScript, and TypeScript, I work with frameworks like Next.js, React, Django, and Express, and use tools like Docker and Git for deployment and version control. I am fluent in English, French, and Arabic.',
-    avatarUrl: '/image.png',
+    avatarUrl: '/adam.png',
     skills: ['React', 'Next.js', 'Typescript', 'Node.js', 'Python', 'Docker'],
     navbar: [
         { href: '/', icon: HomeIcon, label: 'Home' },
